@@ -1,0 +1,8 @@
+app:
+  upload_dir: "data/uploads/"
+  caption_file: "data/captions.json"
+  checkpoint_dir: "data/checkpoints/"
+  image_size: 224
+  fastapi_host: "0.0.0.0"
+  fastapi_port: 8000
+  streamlit_port: 8501
