@@ -1,0 +1,5 @@
+numpy
+pickle5
+tensorflow
+matplotlib
+pillow
