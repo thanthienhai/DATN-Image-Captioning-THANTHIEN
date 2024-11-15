@@ -40,3 +40,7 @@
   - [ ] Định kỳ kiểm tra và hiệu chỉnh mô hình để đạt kết quả mong muốn.
 - **Triển khai và bảo trì:** 
   - [ ] Đảm bảo ứng dụng hoạt động ổn định và sẵn sàng nâng cấp khi cần thiết.
+
+![Sơ đồ kiến trúc hệ thống Image Captioning](image/DATN-001.png)
+
+![Sequence Diagram của quá trình xử lý](image/DATN-002.png)
