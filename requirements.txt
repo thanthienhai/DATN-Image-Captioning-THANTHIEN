@@ -1,0 +1,7 @@
+tensorflow
+keras
+streamlit
+efficientnet
+matplotlib
+seaborn
+nltk
