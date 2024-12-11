@@ -1,7 +1,11 @@
-tensorflow
+# tensorflow
 keras
 streamlit
 efficientnet
 matplotlib
 seaborn
 nltk
+google-generativeai
+pillow
+httpx
+python-dotenv
